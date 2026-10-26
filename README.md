@@ -95,7 +95,7 @@ These filters allow users to explore the data dynamically.
 
 ## 📊 Dashboard Preview
 
-![Mobile Sales Dashboard.png](Dashboard.png)
+![Mobile Sales Dashboard.png](Mobile Sales Dashboard.png)
 
 ---
 
